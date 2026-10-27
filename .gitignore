@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local node portable install
+.node-portable/
+
+# macOS metadata files
+._*
+.DS_Store
